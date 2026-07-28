@@ -1,2 +1,2 @@
-# Banking-Management-System
+# SmartBank
 Banking Management System
